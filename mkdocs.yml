@@ -5,16 +5,23 @@ theme:
     text: Roboto
     code: Roboto Mono
   palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: red
+      accent: deep orange
     # Light Mode
-    scheme: default
-    toggle:
-      icon: material/weather-night
-      name: Light
-    primary: red
-    accent: deep orange
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: red
+      accent: deep orange
   nav:
     - Home: index.md
-    - Blog: docs/content/
+    - Content: docs/content/
   features:
     - navigation.instant
     - search.highlight
@@ -24,13 +31,15 @@ theme:
   hljs_languages:
     - yaml
     - json
-    - go
+    - python
     - bash
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences # Enables syntax highlighting for code blocks
+  - pymdownx.superfences
   - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.inlinehilite
   - pymdownx.emoji
   - attr_list
@@ -40,6 +49,7 @@ markdown_extensions:
       alternate_style: true # Enables tabbed code sections
 plugins:
   - glightbox
+  # - blog
 extra_css:
   - styles/custom.css
 copyright: Copyright &copy; 2025 Joaquin Franco

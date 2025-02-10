@@ -15,5 +15,5 @@ mkdocs *ARGS:
 
 # Run the development server
 up:
-    @poetry run mkdocs build --clean
+    @poetry run mkdocs build --clean --strict
     @poetry run mkdocs serve --open
