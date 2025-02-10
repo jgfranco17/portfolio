@@ -14,11 +14,11 @@ systems.
 
 ## Experience
 
-=== "Present"
+=== "Full-time"
 
-    ### Software Engineer
+    **Software Engineer**
 
-    _Woven by Toyota | Full-time (October 2023 - PRESENT)_
+    _Woven by Toyota (October 2023 - PRESENT)_
 
     - Developed backend HTTP API service on K8s deployment, using OpenAPI for specifications
     - Spearheaded the design and implementation of observability via Prometheus monitored on
@@ -27,13 +27,29 @@ systems.
     - Worked closely with members from North America team to provide system testing solutions
       for Toyota
 
-=== "2023"
+    Tech stack: Python, Go, PostgreSQL, Redis, Kubernetes, Github Actions
 
-    ### Undergraduate Researcher
+=== "Internships"
 
-    _Nagoya University, Fujii Lab (藤井研究室) | Student Internship (April 2022 - September 2023)_
+    **Undergraduate Researcher**
+
+    _Nagoya University, Fujii Lab (April 2022 - September 2023)_
 
     - Applied orthogonal NeRF to estimate 3D scene shape from as little as 25 images
     - Implemented Open3D library to generate point‑clouds
     - Collaborated with members of Tokyo University of Agriculture & Technology to implement
       technology in holography applications
+
+    Tech stack: Python, PyTorch, Open3D, NumPy
+
+    ---
+
+    **Infrastructure & Services Engineer**
+
+    _Woven Planet Holdings (September 2022 - December 2022)_
+
+    - Developed real‑time latency monitoring agent to improve network visibility for engineers
+      and reducing debugging time
+    - Deployed the latency monitor in virtual network using Nomad and Docker
+
+    Tech stack: Python, Nomad, InfluxDB, Docker, Vagrant,

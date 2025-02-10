@@ -2,7 +2,7 @@ site_name: Joaquin Gabriel Franco
 theme:
   name: material
   font:
-    text: Roboto
+    text: Questrial
     code: Roboto Mono
   palette:
     # Dark Mode
