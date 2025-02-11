@@ -4,6 +4,8 @@ theme:
   font:
     text: Questrial
     code: Roboto Mono
+  icon:
+    logo: octicons/feed-person-16
   palette:
     # Dark Mode
     - scheme: slate
