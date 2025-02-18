@@ -21,7 +21,7 @@ theme:
       # toggle:
       #   icon: material/toggle-switch
       #   name: Switch to dark mode
-      primary: custom
+      primary: red
       accent: red
   nav:
     - Home: index.md
