@@ -2,10 +2,10 @@
 
 ## About Me
 
-Welcome! I'm Joaquin, a software engineer based in Tokyo, with a passion for designing
-scalable backend systems, optimizing cloud infrastructure, and building high-performance APIs.
-I currently specialize in using Python and Golang, leveraging modern cloud technologies to
-create efficient, reliable, and maintainable software solutions.
+Welcome! I'm Joaquin Franco, but you can call me Chino. I'm a software engineer based in Tokyo,
+with a passion for designing scalable backend systems, optimizing cloud infrastructure, and
+building high-performance APIs. I currently specialize in using Python and Golang, leveraging
+modern cloud technologies to create efficient, reliable, and maintainable software solutions.
 
 Currently, I work at Woven by Toyota, where I focus on test automation infrastructure, API
 development, and observability to improve software reliability. My experience spans backend
@@ -14,7 +14,7 @@ implementing automation and promoting a "shift-left" approach in software develo
 contribute to enhancing quality, accelerating development cycles, and ensuring seamless
 integration of distributed automotive systems.
 
-## Experience
+## Work Experience
 
 For a copy of my full resume, click [here](./static/joaquin-franco-resume.pdf){:download="jgaf-resume"}.
 
@@ -64,8 +64,6 @@ I'm open to collaborating on exciting projects, discussing tech trends, or brain
 innovative solutions. Feel free to reach out!
 
 :material-email: Email: [`chino.franco@gmail.com`](mailto:chino.franco@gmail.com)
-
-:material-web: Portfolio: [`www.joaquin-franco.tech`](https://www.joaquin-franco.tech)
 
 :material-linkedin: LinkedIn: [`linkedin.com/in/jgfranco17`](https://www.linkedin.com/in/jgfranco17)
 
