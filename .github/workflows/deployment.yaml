@@ -26,17 +26,22 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip && pip install poetry
+          pip install --upgrade pip
+          pip install poetry
           poetry install
+
+      - name: Run linting
+        run: |
+          poetry run pre-commit run --all-files
 
       - name: Build MkDocs site
         run: |
           poetry run mkdocs build --clean --strict
 
-      - name: Setup Pages
+      - name: Setup GH Pages
         uses: actions/configure-pages@v3
 
-      - name: Upload artifact
+      - name: Upload build artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
