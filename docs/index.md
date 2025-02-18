@@ -4,8 +4,8 @@
 
 Welcome! I'm Joaquin, a software engineer based in Tokyo, with a passion for designing
 scalable backend systems, optimizing cloud infrastructure, and building high-performance APIs.
-I specialize in Python, Golang, and DevOps—leveraging modern cloud technologies to create
-efficient, reliable, and maintainable software solutions.
+I currently specialize in using Python and Golang, leveraging modern cloud technologies to
+create efficient, reliable, and maintainable software solutions.
 
 Currently, I work at Woven by Toyota, where I focus on test automation infrastructure, API
 development, and observability to improve software reliability. My experience spans backend
@@ -15,6 +15,8 @@ contribute to enhancing quality, accelerating development cycles, and ensuring s
 integration of distributed automotive systems.
 
 ## Experience
+
+For a copy of my full resume, click [here](./static/joaquin-franco-resume.pdf){:download="jgaf-resume"}.
 
 === "Full-time"
 
