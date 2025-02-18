@@ -2,15 +2,17 @@
 
 ## About Me
 
-I graduated in 2023 from Nagoya University G30 International Programs, where I majored in
-Automotive Engineering (with specialization in Mechanical Engineering focus).
+Welcome! I'm Joaquin, a software engineer based in Tokyo, with a passion for designing
+scalable backend systems, optimizing cloud infrastructure, and building high-performance APIs.
+I specialize in Python, Golang, and DevOps—leveraging modern cloud technologies to create
+efficient, reliable, and maintainable software solutions.
 
-I am currently a software engineer at Woven by Toyota. As a member of the Vertex team under
-Woven by Toyota's Arene Tools Engineering, I specialize in driving the automation of software
-validation within complex, distributed automotive environments. By implementing automation and
-promoting a "shift-left" approach in software development, I contribute to enhancing quality,
-accelerating development cycles, and ensuring seamless integration of distributed automotive
-systems.
+Currently, I work at Woven by Toyota, where I focus on test automation infrastructure, API
+development, and observability to improve software reliability. My experience spans backend
+development, cloud-native technologies, CI/CD pipelines, and database optimization. By
+implementing automation and promoting a "shift-left" approach in software development, I
+contribute to enhancing quality, accelerating development cycles, and ensuring seamless
+integration of distributed automotive systems.
 
 ## Experience
 
@@ -53,3 +55,16 @@ systems.
     - Deployed the latency monitor in virtual network using Nomad and Docker
 
     Tech stack: Python, Nomad, InfluxDB, Docker, Vagrant,
+
+## Connect
+
+I'm open to collaborating on exciting projects, discussing tech trends, or brainstorming
+innovative solutions. Feel free to reach out!
+
+:material-email: Email: [`chino.franco@gmail.com`](mailto:chino.franco@gmail.com)
+
+:material-web: Portfolio: [`www.joaquin-franco.tech`](https://www.joaquin-franco.tech)
+
+:material-linkedin: LinkedIn: [`linkedin.com/in/jgfranco17`](https://www.linkedin.com/in/jgfranco17)
+
+:simple-github: GitHub: [`github.com/jgfranco17`](https://github.com/jgfranco17)

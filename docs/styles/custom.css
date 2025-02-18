@@ -4,3 +4,9 @@ pre code {
   border-radius: 8px;
   padding: 12px;
 }
+
+:root > * {
+  --md-primary-fg-color: #921515;
+  --md-primary-fg-color--light: #e08282;
+  --md-primary-fg-color--dark: #bd111c;
+}
